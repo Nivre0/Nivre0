@@ -15,17 +15,17 @@ I am a full-stack junior software developer. I love programming, gaming and cook
 </p>
 
 
-### Programming languages I used once or twice
+### 🤔 Programming languages I used once or twice
 <p>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" style="padding: 0px 3px;"/>
 </p>
 
-### Things I'm learning / Goals
+### 🎯 Things I'm learning / Goals
 <p>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png" alt="Rust" title="Rust" style="padding: 0px 3px;"/>
 </p>
 
-### Database or Cloud Technologies I've used
+### 🌐 Database or Cloud Technologies I've used
 <p>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" style="padding: 0px 3px;"/>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL" style="padding: 0px 3px;"/>
@@ -33,7 +33,7 @@ I am a full-stack junior software developer. I love programming, gaming and cook
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure" style="padding: 0px 3px;"/>
 </p>
 
-### IDE's and Frameworks I've used
+### 🧰 IDE's and Frameworks I've used
 <p>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" style="padding: 0px 3px;"/>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" style="padding: 0px 3px;"/>
@@ -45,7 +45,7 @@ I am a full-stack junior software developer. I love programming, gaming and cook
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="docker" title="docker" width="50" style="padding: 0px 3px;"/>
 </p>
 
-### Other Stuff I know
+### ❔ Other Stuff I know
 <p>
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="50" />
@@ -53,7 +53,7 @@ I am a full-stack junior software developer. I love programming, gaming and cook
 
 ---
 
-### Connect with me
+### 😁 Connect with me
 
 <div>
 	<a href="https://www.linkedin.com/in/tim-l-a65275274/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
