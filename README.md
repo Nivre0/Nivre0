@@ -1,4 +1,4 @@
-<style>
+<style hidden>
 .toolTitles {
     font-size: 150%;
 }
