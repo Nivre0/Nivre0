@@ -1,12 +1,18 @@
-<style hidden>
-.toolTitles {
-    font-size: 150%;
-}
+<!--
+<style>
+	.toolTitles {
+		font-size: 150%;
+	}
 
-.icons {
-	padding: 0px 3px; 
-}
+	.icons {
+		padding: 0px 3px; 
+	}
 </style>
+-->
+
+
+
+
 
 # Welcome to Tim's profile! 👋
 
